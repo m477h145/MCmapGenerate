@@ -26,7 +26,7 @@ int main() {
         printf("(4) Change wait time between TPs (Current: %d seconds)\n", timer);
         printf("(5) Change MC console screen session (Current: %s)\n", screen);
         printf("(6) Enter Username (Current: %s)\n", user);
-        printf("(7) Print current Coords");
+        printf("(7) Print current Coords\n");
         printf("(8) Run Script\n");
         printf("(9) Quit\n");
 
